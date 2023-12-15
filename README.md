@@ -29,7 +29,7 @@
   <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/rizzxd9"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/zeeoneofficial"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/@RizzXd09?si=CxTmFKcXb_bKgICK"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Dilihat" />
 
 </p>
@@ -66,7 +66,7 @@
 
 ## ```Coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/rizzxd09)
+- [`SAWERIA`](https://saweria.co/zeeoneofc)
 
 ## ```Thanks To```
 
