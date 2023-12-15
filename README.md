@@ -77,4 +77,3 @@
 - [`Creative Team`]()
 - [`Danzzcoding`]()
 - [`ZeeoneOfc`]()
-- [`Rizzofc`]()
