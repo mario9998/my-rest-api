@@ -4,7 +4,7 @@ global.creator = 'Rizzofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://mario09:mario11081984@cluster0.gibvf4l.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "finky0822@gmail.com" //email
-global.email_password = "finky0822@gmail.com" //application password email
+global.email_password = "rpvi hqcz ssik kezz" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
